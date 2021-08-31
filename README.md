@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://c4.social/@weex">Mastodon</a>
+<a rel="me" rel="me" href="https://c4.social/@weex">Mastodon</a>
