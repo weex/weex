@@ -1,3 +1,3 @@
 Software engineer interested in free software development process.
 
-Most recently tested Pieter Hintjens' Collective Code Construction Contract with https://magicstone.dev
+Enjoying vibe-coding Nostr apps and thinking about next generation decentralized social media.
